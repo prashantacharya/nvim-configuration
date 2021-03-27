@@ -10,6 +10,7 @@ set colorcolumn=80
 set ignorecase
 set smartcase
 set number relativenumber
+set autowriteall
 
 filetype plugin on
 syntax on
@@ -17,7 +18,7 @@ syntax on
 " Mappings
 let mapleader = ','
 map <C-p> :FZF<CR>
-map <C-n> :NERDTree<CR>
+map <C-n> :NERDTreeToggle<CR>
 map <leader>b :buffers<CR>
 map <C-j> :bnext<CR>
 map <C-k> :bprev<CR>
