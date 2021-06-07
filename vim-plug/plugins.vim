@@ -9,4 +9,5 @@ call plug#begin()
   Plug 'yggdroot/indentline'
   Plug 'othree/yajs.vim'
   Plug 'HerringtonDarkholme/yats.vim'
+  Plug 'maxmellon/vim-jsx-pretty'
 call plug#end()

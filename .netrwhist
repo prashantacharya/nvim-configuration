@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/prashant/.config/nvim/vim-plug'
+let g:netrw_dirhist_7='/home/prashant/.config/nvim'
 let g:netrw_dirhist_6='/home/prashant/Projects/BigOmega'
 let g:netrw_dirhist_5='/home/prashant/.config/nvim'
 let g:netrw_dirhist_4='/home/prashant/.config/nvim/vim-plug'
@@ -8,5 +10,3 @@ let g:netrw_dirhist_2='/home/prashant/.config/nvim/vim-plug'
 let g:netrw_dirhist_1='/home/prashant/.config/nvim'
 let g:netrw_dirhist_0='/home/prashant/Projects/BigOmega'
 let g:netrw_dirhist_9='/home/prashant'
-let g:netrw_dirhist_8='/home/prashant/.config/nvim/plugins'
-let g:netrw_dirhist_7='/home/prashant/.config/nvim'
